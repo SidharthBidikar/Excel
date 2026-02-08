@@ -1,15 +1,34 @@
-# Excel Projects
+# 📊 Excel Data Analysis Projects
 
-This repository contains my hands-on Excel projects focused on data analysis, visualization, and business insights.
+This repository contains my hands-on Excel projects focused on data analysis, exploratory data analysis (EDA), data visualization, and business reporting.
 
-## Projects
+The projects in this repository demonstrate practical usage of Excel features such as PivotTables, PivotCharts, calculated fields, and dashboard creation to derive insights from structured datasets.
 
-### 📊 Customer Churn Analysis (Telecom)
-- Analyzed customer churn drivers for a subscription-based telecom company
-- Used PivotTables, calculated fields, and dashboards
-- Focused on competitor-driven churn and customer demographics
+## 📁 Projects in this Repository
 
-📁 Folder: `churn-analysis/`
+### 1. Customer Churn Analysis (Telecom Case Study)
+- End-to-end churn analysis for a subscription-based telecom company
+- Focused on identifying churn drivers, competitor impact, demographics, and service usage
+- Built interactive PivotTables, PivotCharts, and an Excel dashboard
 
----
-More Excel projects will be added over time, covering forecasting, sales analysis, and business reporting.
+📂 Folder: `churn-analysis/`
+
+### 2. Mini Excel Projects (Exploratory Data Analysis)
+A collection of smaller, focused Excel projects created through guided code-along exercises and practice datasets.  
+These projects emphasize **exploratory data analysis and visualization techniques** using PivotTables and PivotCharts.
+
+📂 Folder: `mini-excel-projects/`
+
+## 🛠 Tools & Skills Demonstrated
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Exploratory Data Analysis (EDA)
+- Data Aggregation & Filtering
+- Calculated Fields & Metrics
+- Business Data Visualization
+- Dashboard Fundamentals
+
+## 🚀 Future Additions
+- Forecasting & trend analysis projects
+- Sales and revenue analysis
+- Excel-based scenario and sensitivity analysis
