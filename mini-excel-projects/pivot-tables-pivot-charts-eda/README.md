@@ -20,6 +20,46 @@ The dataset contains approximately **9,800 sales records**, making it suitable f
 - Structured tabular data used for exploration and visualization
 - Dataset is not included; screenshots of outputs are provided instead
 
+📦 Dataset Structure & Granularity
+
+The dataset used in this exploratory data analysis project is a transaction-level sales dataset.
+
+Granularity
+1 row = 1 customer order
+Each record represents a single purchase transaction
+Enables detailed analysis across customer, product, geography, and time dimensions
+
+Understanding the data granularity ensures that aggregations and visualizations are interpreted correctly during analysis.
+
+Dimensions (Categorical Features)
+The dataset contains multiple descriptive fields used for grouping and segmentation:
+
+Customer: Customer ID, Customer Name
+Geography: City, State
+Customer Segment: Consumer, Corporate, Home Office
+Product: Product Name, Category, Sub-category
+Time: Order Date, Ship Date
+Logistics: Shipment Mode
+
+These dimensions are used extensively in PivotTables to explore patterns and comparisons.
+
+Measures (Numerical Features)
+
+The dataset includes the following quantitative fields:
+Sales ($) – revenue generated per order
+Profit ($) – profit contribution per order
+Quantity – number of units sold
+Discount (%) – discount applied to the order
+
+These measures support analysis of performance, profitability, and pricing behavior.
+
+Why this Dataset is Suitable for EDA
+
+Transaction-level granularity enables flexible aggregation
+Balanced mix of categorical and numerical features
+Large enough (~9,800 rows) to simulate real-world analysis
+Well-suited for PivotTables and PivotCharts in Excel
+
 ## 🛠 Tools & Techniques Used
 - Microsoft Excel
 - PivotTables
@@ -42,3 +82,5 @@ The dataset contains approximately **9,800 sales records**, making it suitable f
 Example:
 ```md
 ![Pivot Chart Example](screenshots/pivot_chart.png)
+
+
