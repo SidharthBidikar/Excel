@@ -14,7 +14,7 @@ The projects in this repository demonstrate practical usage of Excel features su
 📂 Folder: `churn-analysis/`
 
 ### 2. Mini Excel Projects (Exploratory Data Analysis)
-A collection of smaller, focused Excel projects created through guided code-along exercises and practice datasets.  
+A collection of smaller, Excel focused projects created through exercises and practice datasets.  
 These projects emphasize **exploratory data analysis and visualization techniques** using PivotTables and PivotCharts.
 
 📂 Folder: `mini-excel-projects/`
