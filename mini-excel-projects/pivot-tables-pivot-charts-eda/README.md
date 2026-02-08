@@ -77,7 +77,7 @@ Well-suited for PivotTables and PivotCharts in Excel
 - Demonstrated how PivotTables and PivotCharts update automatically when data changes
 
 ## 📷 Visual Outputs
-*(Insert screenshots of PivotTables and PivotCharts here)*
+<img width="1066" height="531" alt="image" src="https://github.com/user-attachments/assets/4f01ef33-8d3c-4c62-8871-46b89b3b09a1" />
 
 Example:
 ```md
